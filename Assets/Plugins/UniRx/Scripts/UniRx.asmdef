@@ -1,0 +1,17 @@
+{
+    "name": "UniRx",
+    "references": [
+        "Unity.Transforms",
+        "Unity.Entities",
+        "Unity.Rendering.Hybrid",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.Entities.Hybrid",
+        "Unity.Burst",
+        "UniRx.Async"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

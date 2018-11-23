@@ -1,0 +1,12 @@
+{
+    "name": "NearycBase",
+    "references": [
+        "LINQtoGameObject",
+        "Unity.Addressables",
+        "UniRx"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
