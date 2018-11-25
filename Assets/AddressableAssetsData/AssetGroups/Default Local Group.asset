@@ -14,11 +14,31 @@ MonoBehaviour:
   m_name: Default Local Group
   m_data:
     m_serializedData: []
-  m_guid: d069af17d364d8548a3838be7ba501eb
-  m_serializeEntries: []
+  m_guid: 39a9e62910838764d8a9b74d43f9e84e
+  m_serializeEntries:
+  - m_guid: 02c0ccc8cd28bc14ba2a4e630f509c4e
+    m_address: Assets/_Resources_moved/Prefabs/Test/Cube.prefab
+    m_readOnly: 0
+    m_serializedLabels: []
+  - m_guid: 09b5b41f9a81d4a42befd67c8aa7e783
+    m_address: Assets/_Resources_moved/Prefabs/Test/New Material.mat
+    m_readOnly: 0
+    m_serializedLabels: []
+  - m_guid: 10c8fef0748c12b438e03bf30330e620
+    m_address: Assets/_Resources_moved/Prefabs/Test/Squart.prefab
+    m_readOnly: 0
+    m_serializedLabels: []
+  - m_guid: 6e64859dc36235a45a88b2ced454aeeb
+    m_address: Assets/_Resources_moved/Prefabs/Test/Cube2.prefab
+    m_readOnly: 0
+    m_serializedLabels: []
+  - m_guid: 7b2960edc23fce741a8cce2af73fb51f
+    m_address: Assets/_Resources_moved/Prefabs/Cube3.prefab
+    m_readOnly: 0
+    m_serializedLabels: []
   m_readOnly: 0
-  m_settings: {fileID: 11400000, guid: ea6cd18abf86eca47af25a616025a7b1, type: 2}
+  m_settings: {fileID: 11400000, guid: 0e3a5bc69a78c3a4f8314949305870ca, type: 2}
   m_schemaSet:
     m_schemas:
-    - {fileID: 11400000, guid: 38b33cf12b42130419a68aecd82d93ab, type: 2}
-    - {fileID: 11400000, guid: 83557c9aa1ca3ab4ab99222cc48e3938, type: 2}
+    - {fileID: 11400000, guid: 1eb9495311301c144aa1e631386cfadd, type: 2}
+    - {fileID: 11400000, guid: eadf89ce7acfd964bbcf120bb358b57f, type: 2}
